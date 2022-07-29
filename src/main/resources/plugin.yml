@@ -1,0 +1,4 @@
+name: PacketLoaderIO
+version: '${project.version}'
+main: net.myvenox.projects.PacketLoaderIO
+authors: [ MrBukkit, MyVenox ]
